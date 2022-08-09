@@ -1,4 +1,8 @@
 # readme
+![stats](imgs/stats.png)
+![missing](imgs/missing%20indexes.png)
+![bpool](imgs/buffer%20pool.png)
+![size](imgs/size.png)
 
 - Статистика использования индекса (seeks, scans, updates) и операционная статистика (latch, lock wait)
 - Cведения об отсутствующих индексах
