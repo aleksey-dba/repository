@@ -21,7 +21,6 @@
 winget install powerbi
 ```
 
-> [!IMPORTANT]
 > Требуется доступ к системным представлениям
 > - sys.dm_db_index_usage_stats
 > - sys.dm_db_index_operational_stats 
